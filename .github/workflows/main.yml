@@ -5,37 +5,10 @@ on:
     - cron: '*/50 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    
-    steps:
-    - name: 检出代码
-      uses: actions/checkout@v4
-    
-    - name: 设置 Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
-    
-    - name: 安装依赖
-      run: |
-        pip install fake-useragent yt-dlp
-    
-    - name: 安装 ffmpeg (包含 ffprobe)
-      run: sudo apt-get update && sudo apt-get install -y ffmpeg
-    
-    - name: 创建录制目录
-      run: mkdir -p camera/recorder
-    
-    - name: 运行监控脚本
-      run: python scripts/monitor.py
-    
-    - name: 提交变更到仓库
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-        # 添加所有变更（新增、删除、修改）
-        git add camera/recorder/
-        git commit -m "自动录制并清理 $(date +'%Y-%m-%d %H:%M:%S')" || echo "无变更"
-        git push
+    # ... 其余部分不变
