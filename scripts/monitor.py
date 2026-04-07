@@ -12,7 +12,7 @@ from datetime import datetime
 RECORD_DIR = "camera/recorder"
 MANIFEST_FILE = os.path.join(RECORD_DIR, "manifest.json")
 MAX_TOTAL_BYTES = 1 * 1024 * 1024 * 1024   # 1 GB
-RECORD_SECONDS = 600                        # 每次录制10分钟（可根据码率调整）
+RECORD_SECONDS = 2000                        # 每次录制10分钟（可根据码率调整）
 M3U8_URL = "https://rvsh.jtw.sh.gov.cn/live/b4710c1c-27eb-4354-a18c-f20fa85f09fc_sub/index.m3u8?t=1933147233&k=0e2debebaffaca58"
 # ==========================
 
