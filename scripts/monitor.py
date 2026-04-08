@@ -14,7 +14,7 @@ RECORD_DIR = "camera/recorder"
 MANIFEST_FILE = os.path.join(RECORD_DIR, "manifest.json")
 PLAYLIST_FILE = os.path.join(RECORD_DIR, "playlist.m3u8")
 MAX_TOTAL_BYTES = 1 * 1024 * 1024 * 1024   # 1 GB
-RECORD_SECONDS = 600                        # 每次录制10分钟
+RECORD_SECONDS = 3600                        # 每次录制60分钟
 M3U8_URL = "https://rvsh.jtw.sh.gov.cn/live/b4710c1c-27eb-4354-a18c-f20fa85f09fc_sub/index.m3u8?t=1933147233&k=0e2debebaffaca58"
 # ==========================
 
