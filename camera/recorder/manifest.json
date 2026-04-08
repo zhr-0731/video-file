@@ -68,5 +68,10 @@
     "path": "camera/recorder/live_20260408_072412.mp4",
     "size_bytes": 33020769,
     "created_at": 1775635055.8421817
+  },
+  {
+    "path": "camera/recorder/live_20260408_081119.mp4",
+    "size_bytes": 33102426,
+    "created_at": 1775637880.8597357
   }
 ]
