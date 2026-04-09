@@ -1,15 +1,5 @@
 [
   {
-    "path": "camera/recorder/live_20260407_212702.mp4",
-    "size_bytes": 33035047,
-    "created_at": 1775599223.8358893
-  },
-  {
-    "path": "camera/recorder/live_20260407_220912.mp4",
-    "size_bytes": 33213877,
-    "created_at": 1775601754.198892
-  },
-  {
     "path": "camera/recorder/live_20260407_225943.mp4",
     "size_bytes": 33170891,
     "created_at": 1775604786.9837754
@@ -40558,5 +40548,4505 @@
     "path": "camera/recorder/seg_20260409_010021_899.ts",
     "size_bytes": 79900,
     "created_at": 1775700023.5011966
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_000.ts",
+    "size_bytes": 41172,
+    "created_at": 1775710054.3134148
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_001.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3134205
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_002.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.313424
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_003.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3134272
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_004.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3134308
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_005.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3134341
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_006.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3134375
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_007.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3134406
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_008.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3134437
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_009.ts",
+    "size_bytes": 83096,
+    "created_at": 1775710054.313447
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_010.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3134503
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_011.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.313456
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_012.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3134594
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_013.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3134625
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_014.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3134658
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_015.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3134692
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_016.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3134723
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_017.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3134756
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_018.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.313479
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_019.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3134823
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_020.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3134856
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_021.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.313489
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_022.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.313492
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_023.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3134952
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_024.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.313498
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_025.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3135011
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_026.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.3135047
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_027.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3135076
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_028.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3135107
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_029.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3135138
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_030.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3135169
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_031.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.31352
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_032.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.313523
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_033.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.313526
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_034.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3135307
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_035.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.313534
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_036.ts",
+    "size_bytes": 77832,
+    "created_at": 1775710054.3135371
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_037.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3135417
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_038.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3135448
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_039.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.313548
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_040.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3135514
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_041.ts",
+    "size_bytes": 83284,
+    "created_at": 1775710054.3135548
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_042.ts",
+    "size_bytes": 77644,
+    "created_at": 1775710054.313558
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_043.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3135614
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_044.ts",
+    "size_bytes": 83472,
+    "created_at": 1775710054.3135643
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_045.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3135674
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_046.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3135707
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_047.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3135738
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_048.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3135772
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_049.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3135803
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_050.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3135834
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_051.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.313587
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_052.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.31359
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_053.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3135934
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_054.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3135965
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_055.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3135998
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_056.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3136044
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_057.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3136075
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_058.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3136106
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_059.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.313614
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_060.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.313617
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_061.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3136203
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_062.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3136232
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_063.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3136263
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_064.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3136296
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_065.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3136332
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_066.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3136365
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_067.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3136396
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_068.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3136427
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_069.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.313646
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_070.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3136492
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_071.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3136525
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_072.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3136556
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_073.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3136587
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_074.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3136618
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_075.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.313665
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_076.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.313668
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_077.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.3136714
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_078.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3136744
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_079.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3136778
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_080.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3136823
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_081.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3136854
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_082.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3136885
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_083.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3136919
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_084.ts",
+    "size_bytes": 83848,
+    "created_at": 1775710054.313695
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_085.ts",
+    "size_bytes": 77268,
+    "created_at": 1775710054.3136983
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_086.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3137014
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_087.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3137043
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_088.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3137074
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_089.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3137105
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_090.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3137136
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_091.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3137167
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_092.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3137197
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_093.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3137228
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_094.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.3137257
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_095.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.313729
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_096.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3137321
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_097.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3137355
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_098.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3137386
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_099.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3137417
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_100.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3137445
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_101.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3137493
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_102.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3137524
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_103.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3137603
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_104.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3137634
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_105.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3137665
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_106.ts",
+    "size_bytes": 77644,
+    "created_at": 1775710054.3137696
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_107.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3137724
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_108.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3137758
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_109.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3137789
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_110.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.313782
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_111.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.313785
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_112.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3137884
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_113.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3137915
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_114.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3137946
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_115.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3137977
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_116.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.313801
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_117.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3138041
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_118.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.313807
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_119.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.31381
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_120.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3138134
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_121.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3138165
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_122.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3138196
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_123.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3138227
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_124.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.313826
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_125.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.3138292
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_126.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3138337
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_127.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.313837
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_128.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3138402
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_129.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3138435
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_130.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3138466
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_131.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3138497
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_132.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3138528
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_133.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3138704
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_134.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3138738
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_135.ts",
+    "size_bytes": 77268,
+    "created_at": 1775710054.3138766
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_136.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3138797
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_137.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.313883
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_138.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3138862
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_139.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3138893
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_140.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3138924
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_141.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3138952
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_142.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3138986
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_143.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3139017
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_144.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3139045
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_145.ts",
+    "size_bytes": 77456,
+    "created_at": 1775710054.3139079
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_146.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.313911
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_147.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.313914
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_148.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3139193
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_149.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3139224
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_150.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3139253
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_151.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3139284
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_152.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3139315
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_153.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.3139346
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_154.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.313938
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_155.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3139412
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_156.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3139443
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_157.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3139474
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_158.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3139505
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_159.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3139539
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_160.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.313957
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_161.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3139598
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_162.ts",
+    "size_bytes": 77080,
+    "created_at": 1775710054.3139627
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_163.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.313966
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_164.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3139694
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_165.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.313974
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_166.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3139777
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_167.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3139808
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_168.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.313984
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_169.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.313987
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_170.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.31399
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_171.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3139932
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_172.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3139977
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_173.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.314001
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_174.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3140042
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_175.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3140073
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_176.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3140106
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_177.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3140135
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_178.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3140166
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_179.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3140197
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_180.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3140225
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_181.ts",
+    "size_bytes": 77456,
+    "created_at": 1775710054.3140259
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_182.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.314029
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_183.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.314032
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_184.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3140354
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_185.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3140385
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_186.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3140416
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_187.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.314045
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_188.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.314048
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_189.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3140514
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_190.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3140545
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_191.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3140578
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_192.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3140607
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_193.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3140638
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_194.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.314067
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_195.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.314072
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_196.ts",
+    "size_bytes": 83096,
+    "created_at": 1775710054.314075
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_197.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3140779
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_198.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3140812
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_199.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3140843
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_200.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3140874
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_201.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3140907
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_202.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3140938
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_203.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.314097
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_204.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3141
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_205.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3141034
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_206.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3141065
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_207.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3141098
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_208.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3141127
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_209.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3141158
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_210.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3141189
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_211.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3141222
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_212.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3141255
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_213.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3141286
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_214.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.314132
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_215.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3141353
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_216.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3141384
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_217.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3141415
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_218.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3141463
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_219.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3141494
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_220.ts",
+    "size_bytes": 77644,
+    "created_at": 1775710054.3141527
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_221.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3141558
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_222.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3141592
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_223.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.314162
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_224.ts",
+    "size_bytes": 83660,
+    "created_at": 1775710054.3141649
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_225.ts",
+    "size_bytes": 76892,
+    "created_at": 1775710054.3141682
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_226.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3141713
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_227.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3141744
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_228.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3141775
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_229.ts",
+    "size_bytes": 83284,
+    "created_at": 1775710054.314182
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_230.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3141851
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_231.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3141882
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_232.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3141916
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_233.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3141947
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_234.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.314198
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_235.ts",
+    "size_bytes": 83848,
+    "created_at": 1775710054.314201
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_236.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.3142042
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_237.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3142073
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_238.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3142104
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_239.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3142133
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_240.ts",
+    "size_bytes": 77456,
+    "created_at": 1775710054.314218
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_241.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3142211
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_242.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3142242
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_243.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.314227
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_244.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3142304
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_245.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.3142335
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_246.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3142369
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_247.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3142397
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_248.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.314243
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_249.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3142464
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_250.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3142495
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_251.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3142529
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_252.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.314256
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_253.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3142607
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_254.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.314264
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_255.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3142674
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_256.ts",
+    "size_bytes": 77644,
+    "created_at": 1775710054.3142707
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_257.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3142738
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_258.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.314277
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_259.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3142803
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_260.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3142834
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_261.ts",
+    "size_bytes": 77832,
+    "created_at": 1775710054.3142862
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_262.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3142896
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_263.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3142927
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_264.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3142977
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_265.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3143008
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_266.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3143036
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_267.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.314307
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_268.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.31431
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_269.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3143134
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_270.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3143165
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_271.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3143196
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_272.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.314323
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_273.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.314326
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_274.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3143291
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_275.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3143325
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_276.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3143358
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_277.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.314339
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_278.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3143418
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_279.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.314345
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_280.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3143485
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_281.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.314352
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_282.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3143551
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_283.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3143582
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_284.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3143618
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_285.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3143713
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_286.ts",
+    "size_bytes": 84036,
+    "created_at": 1775710054.3143747
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_287.ts",
+    "size_bytes": 75388,
+    "created_at": 1775710054.31438
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_288.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3143833
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_289.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3143866
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_290.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3143897
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_291.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3143928
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_292.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.314398
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_293.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.314401
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_294.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.314404
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_295.ts",
+    "size_bytes": 84788,
+    "created_at": 1775710054.3144073
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_296.ts",
+    "size_bytes": 76516,
+    "created_at": 1775710054.3144107
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_297.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3144143
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_298.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3144174
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_299.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3144207
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_300.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3144238
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_301.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3144271
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_302.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.3144302
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_303.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3144336
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_304.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3144367
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_305.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3144398
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_306.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.314443
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_307.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3144464
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_308.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3144493
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_309.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3144524
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_310.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3144574
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_311.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3144605
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_312.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3144639
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_313.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.314467
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_314.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.31447
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_315.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3144732
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_316.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.314478
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_317.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3144813
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_318.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3144848
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_319.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3144877
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_320.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3144908
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_321.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.314494
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_322.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.314497
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_323.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3145003
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_324.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3145034
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_325.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3145065
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_326.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3145096
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_327.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.314513
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_328.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3145163
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_329.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3145194
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_330.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3145225
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_331.ts",
+    "size_bytes": 77832,
+    "created_at": 1775710054.3145256
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_332.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.3145304
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_333.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3145337
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_334.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3145368
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_335.ts",
+    "size_bytes": 71252,
+    "created_at": 1775710054.3145404
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_336.ts",
+    "size_bytes": 76328,
+    "created_at": 1775710054.3145447
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_337.ts",
+    "size_bytes": 75952,
+    "created_at": 1775710054.3145485
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_338.ts",
+    "size_bytes": 74260,
+    "created_at": 1775710054.3145523
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_339.ts",
+    "size_bytes": 74448,
+    "created_at": 1775710054.314556
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_340.ts",
+    "size_bytes": 73884,
+    "created_at": 1775710054.3145592
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_341.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3145623
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_342.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3145657
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_343.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3145688
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_344.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3145719
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_345.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3145752
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_346.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3145788
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_347.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3145819
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_348.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3145847
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_349.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3145878
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_350.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3145912
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_351.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3145945
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_352.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3145976
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_353.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.314601
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_354.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.314604
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_355.ts",
+    "size_bytes": 83472,
+    "created_at": 1775710054.3146071
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_356.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3146133
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_357.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3146162
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_358.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3146193
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_359.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3146224
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_360.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3146255
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_361.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3146288
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_362.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.314632
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_363.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.314635
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_364.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3146381
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_365.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.3146412
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_366.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3146443
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_367.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3146474
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_368.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3146505
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_369.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3146536
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_370.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3146572
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_371.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3146605
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_372.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3146636
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_373.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3146667
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_374.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.3146698
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_375.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.314673
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_376.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3146763
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_377.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3146794
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_378.ts",
+    "size_bytes": 83096,
+    "created_at": 1775710054.3146825
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_379.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3146873
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_380.ts",
+    "size_bytes": 77268,
+    "created_at": 1775710054.3146915
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_381.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.314695
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_382.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.314698
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_383.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.314701
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_384.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3147042
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_385.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3147073
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_386.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.31471
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_387.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.314713
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_388.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3147159
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_389.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.314719
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_390.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3147223
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_391.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3147254
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_392.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3147285
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_393.ts",
+    "size_bytes": 76704,
+    "created_at": 1775710054.3147316
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_394.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3147347
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_395.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3147376
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_396.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.314741
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_397.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.314744
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_398.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3147473
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_399.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3147507
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_400.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3147535
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_401.ts",
+    "size_bytes": 77832,
+    "created_at": 1775710054.3147569
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_402.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3147616
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_403.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3147647
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_404.ts",
+    "size_bytes": 84224,
+    "created_at": 1775710054.3147676
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_405.ts",
+    "size_bytes": 77832,
+    "created_at": 1775710054.314771
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_406.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.314774
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_407.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3147774
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_408.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3147805
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_409.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3147838
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_410.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.314787
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_411.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3147898
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_412.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3147929
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_413.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.314796
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_414.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.314799
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_415.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3148024
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_416.ts",
+    "size_bytes": 77456,
+    "created_at": 1775710054.3148055
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_417.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3148088
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_418.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.314812
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_419.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.314815
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_420.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3148198
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_421.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3148232
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_422.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3148263
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_423.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3148293
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_424.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.314834
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_425.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3148372
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_426.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3148403
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_427.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3148434
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_428.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3148465
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_429.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3148496
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_430.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3148527
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_431.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3148673
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_432.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3148706
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_433.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3148737
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_434.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3148766
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_435.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3148797
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_436.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.314883
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_437.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3148863
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_438.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3148894
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_439.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3148925
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_440.ts",
+    "size_bytes": 77832,
+    "created_at": 1775710054.3148954
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_441.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.314899
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_442.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.314902
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_443.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3149052
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_444.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.31491
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_445.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3149133
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_446.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3149192
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_447.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3149226
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_448.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3149273
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_449.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3149307
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_450.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3149335
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_451.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3149366
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_452.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3149397
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_453.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3149428
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_454.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3149464
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_455.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3149493
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_456.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3149529
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_457.ts",
+    "size_bytes": 76704,
+    "created_at": 1775710054.3149562
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_458.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.314959
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_459.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3149621
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_460.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3149655
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_461.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3149683
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_462.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3149717
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_463.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3149748
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_464.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.314978
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_465.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3149807
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_466.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.314984
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_467.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3149872
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_468.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3149903
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_469.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3149934
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_470.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3149965
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_471.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.315001
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_472.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.315004
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_473.ts",
+    "size_bytes": 77644,
+    "created_at": 1775710054.3150074
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_474.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3150105
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_475.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3150136
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_476.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.315017
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_477.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.31502
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_478.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3150232
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_479.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3150265
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_480.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3150291
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_481.ts",
+    "size_bytes": 77268,
+    "created_at": 1775710054.3150322
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_482.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3150353
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_483.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3150387
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_484.ts",
+    "size_bytes": 77832,
+    "created_at": 1775710054.3150437
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_485.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3150465
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_486.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3150496
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_487.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.315053
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_488.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.315056
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_489.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3150594
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_490.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3150628
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_491.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3150659
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_492.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.315069
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_493.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.315072
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_494.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3150768
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_495.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.31508
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_496.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.315083
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_497.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3150861
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_498.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3150892
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_499.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3150923
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_500.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3150952
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_501.ts",
+    "size_bytes": 77456,
+    "created_at": 1775710054.3150985
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_502.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3151019
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_503.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.315105
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_504.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.315108
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_505.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3151112
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_506.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3151145
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_507.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3151176
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_508.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3151221
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_509.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3151257
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_510.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3151288
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_511.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3151321
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_512.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3151352
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_513.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3151383
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_514.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3151417
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_515.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3151453
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_516.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3151498
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_517.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3151531
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_518.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3151562
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_519.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3151593
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_520.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3151624
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_521.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3151655
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_522.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3151686
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_523.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3151715
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_524.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3151746
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_525.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3151774
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_526.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3151808
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_527.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3151836
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_528.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3151867
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_529.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.31519
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_530.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.315193
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_531.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3151963
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_532.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3151994
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_533.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3152025
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_534.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3152056
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_535.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3152087
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_536.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.315212
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_537.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.315215
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_538.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3152184
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_539.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3152215
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_540.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3152263
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_541.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3152294
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_542.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3152328
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_543.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.315236
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_544.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3152394
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_545.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.315243
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_546.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3152463
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_547.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3152559
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_548.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3152595
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_549.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3152628
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_550.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3152664
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_551.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3152695
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_552.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3152723
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_553.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3152757
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_554.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3152788
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_555.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.315282
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_556.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3152854
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_557.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3152885
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_558.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3152916
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_559.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3152947
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_560.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.315298
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_561.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3153012
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_562.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3153043
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_563.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3153093
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_564.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3153124
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_565.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3153157
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_566.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3153188
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_567.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.315322
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_568.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3153253
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_569.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3153288
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_570.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3153324
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_571.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3153374
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_572.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3153408
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_573.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3153443
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_574.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3153477
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_575.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3153508
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_576.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.315354
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_577.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3153574
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_578.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3153608
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_579.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3153646
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_580.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.315368
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_581.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3153713
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_582.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3153746
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_583.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.315378
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_584.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3153813
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_585.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.3153849
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_586.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3153899
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_587.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3153932
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_588.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3153968
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_589.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3154001
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_590.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3154035
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_591.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.315407
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_592.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3154104
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_593.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3154137
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_594.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3154168
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_595.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3154202
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_596.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3154235
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_597.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3154268
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_598.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3154304
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_599.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3154335
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_600.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3154366
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_601.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3154402
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_602.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3154433
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_603.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3154466
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_604.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.31545
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_605.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3154535
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_606.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.315457
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_607.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3154604
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_608.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3154655
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_609.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.315469
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_610.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3154724
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_611.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3154776
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_612.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3154805
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_613.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3154838
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_614.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3154871
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_615.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3154905
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_616.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3154938
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_617.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3154974
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_618.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3155007
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_619.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.315504
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_620.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3155074
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_621.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3155105
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_622.ts",
+    "size_bytes": 83284,
+    "created_at": 1775710054.3155138
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_623.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3155172
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_624.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3155208
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_625.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.315524
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_626.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3155274
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_627.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3155308
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_628.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3155339
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_629.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.315537
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_630.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3155403
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_631.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3155434
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_632.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.315548
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_633.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3155513
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_634.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3155544
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_635.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.315559
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_636.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.315562
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_637.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3155653
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_638.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3155684
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_639.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3155715
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_640.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.315575
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_641.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3155777
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_642.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3155808
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_643.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3155842
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_644.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3155873
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_645.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3155906
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_646.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3155937
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_647.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3155968
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_648.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3156
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_649.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.315603
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_650.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3156064
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_651.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3156095
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_652.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3156123
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_653.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3156157
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_654.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3156188
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_655.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3156235
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_656.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3156269
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_657.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3156297
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_658.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.315633
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_659.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3156362
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_660.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3156395
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_661.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3156426
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_662.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3156457
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_663.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.315649
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_664.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3156524
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_665.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3156555
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_666.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3156586
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_667.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3156617
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_668.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3156652
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_669.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.315668
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_670.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3156714
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_671.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3156745
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_672.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3156776
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_673.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3156807
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_674.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3156838
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_675.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3156884
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_676.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3156917
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_677.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3156948
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_678.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3156993
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_679.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3157024
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_680.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3157055
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_681.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.315709
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_682.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3157122
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_683.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3157153
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_684.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3157184
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_685.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3157215
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_686.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3157246
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_687.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3157277
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_688.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3157306
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_689.ts",
+    "size_bytes": 83284,
+    "created_at": 1775710054.315734
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_690.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.315737
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_691.ts",
+    "size_bytes": 75200,
+    "created_at": 1775710054.31574
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_692.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3157432
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_693.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3157463
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_694.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3157494
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_695.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3157525
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_696.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3157558
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_697.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.315759
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_698.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3157618
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_699.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.315767
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_700.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3157716
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_701.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3157744
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_702.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3157775
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_703.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3157806
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_704.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.3157837
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_705.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.315787
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_706.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3157902
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_707.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3157935
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_708.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3157964
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_709.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3157995
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_710.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3158028
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_711.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3158057
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_712.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3158088
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_713.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3158119
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_714.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.315815
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_715.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.315818
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_716.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3158214
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_717.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3158243
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_718.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3158274
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_719.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3158307
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_720.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3158338
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_721.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3158371
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_722.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3158402
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_723.ts",
+    "size_bytes": 77644,
+    "created_at": 1775710054.3158433
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_724.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3158479
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_725.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3158512
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_726.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.315876
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_727.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.315882
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_728.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.3158875
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_729.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3158925
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_730.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3158977
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_731.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3159032
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_732.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.315908
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_733.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.315911
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_734.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3159144
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_735.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3159173
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_736.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3159204
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_737.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3159235
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_738.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3159268
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_739.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.315933
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_740.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3159363
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_741.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3159392
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_742.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3159423
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_743.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3159456
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_744.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.315949
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_745.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.315952
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_746.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3159556
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_747.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3159606
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_748.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3159637
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_749.ts",
+    "size_bytes": 82344,
+    "created_at": 1775710054.3159666
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_750.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3159697
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_751.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3159728
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_752.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.315976
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_753.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3159792
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_754.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.315982
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_755.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3159854
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_756.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3159885
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_757.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3159916
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_758.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.315995
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_759.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3159978
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_760.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3160012
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_761.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.316004
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_762.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3160071
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_763.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3160124
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_764.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3160152
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_765.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3160183
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_766.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3160217
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_767.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3160248
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_768.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3160279
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_769.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.316031
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_770.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3160355
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_771.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3160388
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_772.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3160417
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_773.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3160448
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_774.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3160481
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_775.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3160512
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_776.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3160543
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_777.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3160574
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_778.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.31606
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_779.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3160634
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_780.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3160665
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_781.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3160696
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_782.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3160727
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_783.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3160758
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_784.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3160791
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_785.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3160822
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_786.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3160853
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_787.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3160884
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_788.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3160913
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_789.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3160946
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_790.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3160977
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_791.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3161008
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_792.ts",
+    "size_bytes": 82908,
+    "created_at": 1775710054.3161058
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_793.ts",
+    "size_bytes": 82720,
+    "created_at": 1775710054.3161087
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_794.ts",
+    "size_bytes": 76892,
+    "created_at": 1775710054.3161118
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_795.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.316115
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_796.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3161182
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_797.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3161213
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_798.ts",
+    "size_bytes": 78584,
+    "created_at": 1775710054.3161244
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_799.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3161275
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_800.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3161306
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_801.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3161337
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_802.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3161385
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_803.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3161416
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_804.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3161447
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_805.ts",
+    "size_bytes": 77268,
+    "created_at": 1775710054.3161478
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_806.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3161507
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_807.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3161535
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_808.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3161569
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_809.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.31616
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_810.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.316163
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_811.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.316166
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_812.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3161693
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_813.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3161726
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_814.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3161757
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_815.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3161783
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_816.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3161833
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_817.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3161864
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_818.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3161895
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_819.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3161926
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_820.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3161955
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_821.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3161988
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_822.ts",
+    "size_bytes": 81968,
+    "created_at": 1775710054.316202
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_823.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.316205
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_824.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3162081
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_825.ts",
+    "size_bytes": 82532,
+    "created_at": 1775710054.3162112
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_826.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3162158
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_827.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3162189
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_828.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.316222
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_829.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.316225
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_830.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3162284
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_831.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3162317
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_832.ts",
+    "size_bytes": 79524,
+    "created_at": 1775710054.3162348
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_833.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.316238
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_834.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3162408
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_835.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.3162441
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_836.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3162472
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_837.ts",
+    "size_bytes": 84036,
+    "created_at": 1775710054.3162506
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_838.ts",
+    "size_bytes": 84036,
+    "created_at": 1775710054.3162537
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_839.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3162587
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_840.ts",
+    "size_bytes": 75200,
+    "created_at": 1775710054.3162615
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_841.ts",
+    "size_bytes": 76892,
+    "created_at": 1775710054.3162646
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_842.ts",
+    "size_bytes": 72192,
+    "created_at": 1775710054.3162682
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_843.ts",
+    "size_bytes": 77080,
+    "created_at": 1775710054.3162715
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_844.ts",
+    "size_bytes": 78020,
+    "created_at": 1775710054.3162746
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_845.ts",
+    "size_bytes": 82156,
+    "created_at": 1775710054.3162777
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_846.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3162808
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_847.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3162842
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_848.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3162873
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_849.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3162904
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_850.ts",
+    "size_bytes": 80652,
+    "created_at": 1775710054.3162935
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_851.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3162963
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_852.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3162997
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_853.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3163028
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_854.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.316306
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_855.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3163095
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_856.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3163128
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_857.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3163157
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_858.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3163188
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_859.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.316322
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_860.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3163254
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_861.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.3163285
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_862.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3163333
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_863.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3163366
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_864.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.31634
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_865.ts",
+    "size_bytes": 81404,
+    "created_at": 1775710054.316343
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_866.ts",
+    "size_bytes": 84788,
+    "created_at": 1775710054.3163478
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_867.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.316351
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_868.ts",
+    "size_bytes": 76892,
+    "created_at": 1775710054.3163543
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_869.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3163574
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_870.ts",
+    "size_bytes": 81028,
+    "created_at": 1775710054.3163605
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_871.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3163638
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_872.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.316367
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_873.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.3163702
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_874.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3163733
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_875.ts",
+    "size_bytes": 81780,
+    "created_at": 1775710054.3163762
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_876.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3163793
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_877.ts",
+    "size_bytes": 80088,
+    "created_at": 1775710054.3163824
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_878.ts",
+    "size_bytes": 78208,
+    "created_at": 1775710054.3163855
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_879.ts",
+    "size_bytes": 81216,
+    "created_at": 1775710054.3163886
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_880.ts",
+    "size_bytes": 80840,
+    "created_at": 1775710054.316392
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_881.ts",
+    "size_bytes": 78396,
+    "created_at": 1775710054.3163955
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_882.ts",
+    "size_bytes": 83660,
+    "created_at": 1775710054.3163989
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_883.ts",
+    "size_bytes": 78772,
+    "created_at": 1775710054.316402
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_884.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.316407
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_885.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.31641
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_886.ts",
+    "size_bytes": 79148,
+    "created_at": 1775710054.3164134
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_887.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3164167
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_888.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3164198
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_889.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.316423
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_890.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3164277
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_891.ts",
+    "size_bytes": 79336,
+    "created_at": 1775710054.316431
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_892.ts",
+    "size_bytes": 79900,
+    "created_at": 1775710054.3164341
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_893.ts",
+    "size_bytes": 79712,
+    "created_at": 1775710054.3164372
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_894.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3164403
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_895.ts",
+    "size_bytes": 80276,
+    "created_at": 1775710054.3164434
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_896.ts",
+    "size_bytes": 81592,
+    "created_at": 1775710054.3164465
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_897.ts",
+    "size_bytes": 78960,
+    "created_at": 1775710054.3164499
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_898.ts",
+    "size_bytes": 83472,
+    "created_at": 1775710054.316453
+  },
+  {
+    "path": "camera/recorder/seg_20260409_034730_899.ts",
+    "size_bytes": 80464,
+    "created_at": 1775710054.3164558
   }
 ]
