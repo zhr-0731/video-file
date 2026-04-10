@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>多路直播/录像回放系统</title>
+    <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1a1a2e;
+            color: #eee;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #00d8ff;
+        }
+        .mode-bar {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .mode-btn {
+            background: #16213e;
+            color: #eee;
+            border: none;
+            padding: 10px 30px;
+            margin: 0 10px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 30px;
+            transition: all 0.3s;
+        }
+        .mode-btn.active {
+            background: #00d8ff;
+            color: #1a1a2e;
+            font-weight: bold;
+        }
+        .mode-btn:hover {
+            background: #0f3460;
+        }
+        .stream-selector {
+            text-align: center;
+            margin: 15px 0;
+        }
+        .stream-btn {
+            background: #0f3460;
+            border: none;
+            color: white;
+            padding: 8px 20px;
+            margin: 0 5px;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+        .stream-btn.active {
+            background: #e94560;
+        }
+        .video-panel {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .video-card {
+            flex: 1;
+            min-width: 300px;
+            background: #0f3460;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        .video-card h3 {
+            text-align: center;
+            padding: 10px;
+            margin: 0;
+            background: #16213e;
+        }
+        .video-js {
+            width: 100%;
+            aspect-ratio: 16 / 9;
+        }
+        .status {
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+            color: #aaa;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #555;
+        }
+        @media (max-width: 700px) {
+            .video-panel {
+                flex-direction: column;
+            }
+            .mode-btn {
+                padding: 8px 16px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>📡 交通直播 / 录像回放系统</h1>
+
+    <div class="mode-bar">
+        <button class="mode-btn" id="liveModeBtn">🔴 直播模式</button>
+        <button class="mode-btn" id="recordModeBtn">📼 录像回放模式</button>
+    </div>
+
+    <div class="stream-selector">
+        <button class="stream-btn" data-stream="both">🖥️ 双画面</button>
+        <button class="stream-btn" data-stream="stream1">📺 源1 - 上海路况</button>
+        <button class="stream-btn" data-stream="stream2">📺 源2 - 高速监控</button>
+    </div>
+
+    <div class="video-panel" id="videoPanel">
+        <!-- 动态生成播放器 -->
+    </div>
+    <div class="status" id="statusMsg">✅ 已加载播放器，选择模式开始观看</div>
+    <div class="footer">
+        💡 提示：录像回放模式播放的是已录制的历史片段（按时间顺序）。<br>
+        如果无法播放，请确保已运行监控脚本并生成了 playlist 文件。
+    </div>
+</div>
+
+<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@videojs/http-streaming@3.9.0/dist/videojs-http-streaming.min.js"></script>
+<script>
+    // 配置 HLS 流的地址（根据实际部署路径调整）
+    // 注意：这些路径相对于 HTML 文件所在的目录
+    const STREAMS = {
+        stream1: {
+            name: '源1 - 上海路况',
+            live: 'https://rvsh.jtw.sh.gov.cn/live/b4710c1c-27eb-4354-a18c-f20fa85f09fc_sub/index.m3u8?t=1933147233&k=0e2debebaffaca58',
+            record: 'camera/recorder/playlist_stream1.m3u8'
+        },
+        stream2: {
+            name: '源2 - 高速监控',
+            live: 'https://rvsh.jtw.sh.gov.cn/live/0c1d7fb6-c1ec-4a57-bf7a-0da67f620ca8_sub/index.m3u8?t=1933420295&k=43c8fb418001e311',
+            record: 'camera/recorder/playlist_stream2.m3u8'
+        }
+    };
+
+    let currentMode = 'live';   // 'live' 或 'record'
+    let currentView = 'both';   // 'both', 'stream1', 'stream2'
+    let players = { stream1: null, stream2: null };
+
+    // 获取播放器容器
+    function getVideoContainer() {
+        return document.getElementById('videoPanel');
+    }
+
+    // 销毁现有播放器
+    function destroyPlayers() {
+        if (players.stream1) {
+            players.stream1.dispose();
+            players.stream1 = null;
+        }
+        if (players.stream2) {
+            players.stream2.dispose();
+            players.stream2 = null;
+        }
+    }
+
+    // 根据当前模式、视图创建播放器
+    function initPlayers() {
+        destroyPlayers();
+        const container = getVideoContainer();
+        container.innerHTML = '';
+
+        if (currentView === 'both') {
+            // 创建两个卡片
+            const card1 = document.createElement('div');
+            card1.className = 'video-card';
+            card1.innerHTML = `<h3>${STREAMS.stream1.name}</h3><video id="player1" class="video-js vjs-default-skin" controls preload="auto"></video>`;
+            const card2 = document.createElement('div');
+            card2.className = 'video-card';
+            card2.innerHTML = `<h3>${STREAMS.stream2.name}</h3><video id="player2" class="video-js vjs-default-skin" controls preload="auto"></video>`;
+            container.appendChild(card1);
+            container.appendChild(card2);
+
+            const src1 = currentMode === 'live' ? STREAMS.stream1.live : STREAMS.stream1.record;
+            const src2 = currentMode === 'live' ? STREAMS.stream2.live : STREAMS.stream2.record;
+
+            players.stream1 = videojs('player1', {
+                techOrder: ['html5'],
+                sources: [{ src: src1, type: 'application/x-mpegURL' }],
+                liveui: true,
+                autoplay: false
+            });
+            players.stream2 = videojs('player2', {
+                techOrder: ['html5'],
+                sources: [{ src: src2, type: 'application/x-mpegURL' }],
+                liveui: true,
+                autoplay: false
+            });
+
+            players.stream1.on('error', function() {
+                document.getElementById('statusMsg').innerHTML = `⚠️ 源1 播放失败，可能是地址失效或 playlist 不存在`;
+            });
+            players.stream2.on('error', function() {
+                document.getElementById('statusMsg').innerHTML = `⚠️ 源2 播放失败，可能是地址失效或 playlist 不存在`;
+            });
+        } else {
+            // 单画面
+            const streamId = currentView;
+            const card = document.createElement('div');
+            card.className = 'video-card';
+            card.innerHTML = `<h3>${STREAMS[streamId].name}</h3><video id="playerSingle" class="video-js vjs-default-skin" controls preload="auto"></video>`;
+            container.appendChild(card);
+
+            const src = currentMode === 'live' ? STREAMS[streamId].live : STREAMS[streamId].record;
+            players[streamId] = videojs('playerSingle', {
+                techOrder: ['html5'],
+                sources: [{ src: src, type: 'application/x-mpegURL' }],
+                liveui: true,
+                autoplay: false
+            });
+            players[streamId].on('error', function() {
+                document.getElementById('statusMsg').innerHTML = `⚠️ ${STREAMS[streamId].name} 播放失败`;
+            });
+        }
+
+        const modeText = currentMode === 'live' ? '直播模式' : '录像回放模式';
+        document.getElementById('statusMsg').innerHTML = `✅ 当前: ${modeText} | ${currentView === 'both' ? '双画面' : STREAMS[currentView].name}`;
+    }
+
+    // 切换模式
+    function setMode(mode) {
+        currentMode = mode;
+        // 更新按钮样式
+        document.getElementById('liveModeBtn').classList.toggle('active', mode === 'live');
+        document.getElementById('recordModeBtn').classList.toggle('active', mode === 'record');
+        initPlayers();
+    }
+
+    // 切换视图
+    function setView(view) {
+        currentView = view;
+        // 更新按钮样式
+        document.querySelectorAll('.stream-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.getAttribute('data-stream') === view);
+        });
+        initPlayers();
+    }
+
+    // 绑定事件
+    document.getElementById('liveModeBtn').addEventListener('click', () => setMode('live'));
+    document.getElementById('recordModeBtn').addEventListener('click', () => setMode('record'));
+    document.querySelectorAll('.stream-btn').forEach(btn => {
+        btn.addEventListener('click', () => setView(btn.getAttribute('data-stream')));
+    });
+
+    // 页面启动时默认加载直播双画面
+    setMode('live');
+    setView('both');
+</script>
+</body>
+</html>
